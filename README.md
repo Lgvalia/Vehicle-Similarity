@@ -1,4 +1,4 @@
-# Repo for same ehicle similarity detection from different angles
+# Repo for same vehicle similarity detection from different angles
 
 In this repo you can find two techniques of image similarity detection, both from cv2 library - SIFT and ORB.
 
